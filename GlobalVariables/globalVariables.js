@@ -2,7 +2,7 @@
 Global variables are accessed from anywhere in the file, i.e., From any number of the nested functions or objects etc.
 */
 
-/* __dirname and __filename are global varibles, we can access them in any file.
+/* __dirname and __filename are global varibles, we can access them from anywhere in the file.
 */
 const dirName = __dirname;
 const fileName = __filename;
